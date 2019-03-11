@@ -9,3 +9,6 @@ Turn on Flashlight. Tap again or tap notification to turn off. [more](flashlight
 
 ## Speak Time when waving
 This tool speaks the time when you move your hand over the proximity sensor. It is activated when the phone charging and do not disturb mode is set to alarm only. [more](time_speaker_when_waving.md)
+
+## Timer
+A simple timer that ask for a title and the waiting time. [more](timer.md)
