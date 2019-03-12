@@ -1,6 +1,9 @@
 # Llamalab Automate Flows
 This are my automate flows i wrote for [Llamalab Automate](https://llamalab.com/automate/). 
 
+## Apps Modes Daemon
+Set state of Bluetooth, Screen Sleep, Screen Lock and Screen Rotation for each app which is configured with the [Apps Modes Selector](apps_modes_selector.md). [more](apps_modes_daemon.md)
+
 ## Awake Screen
 Keep screen awake and do not lock the device. [more](awake_screen.md)
 
