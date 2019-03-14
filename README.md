@@ -5,7 +5,7 @@ This are my automate flows i wrote for [Llamalab Automate](https://llamalab.com/
 Set state of Bluetooth, Screen Sleep, Screen Lock and Screen Rotation for each app which is configured with the [Apps Modes Selector](apps_modes_selector.md).
 [more](apps_modes_daemon.md)
 
-# Apps Modes Selector
+## Apps Modes Selector
 Ask for states of Bluetooth, Screen Sleep, Screen Lock and Screen Rotation for the current app in foreground. Settings are then set by the [Apps Modes Daemon](apps_modes_daemon.md).
 [more](apps_modes_selector.md)
 
