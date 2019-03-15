@@ -20,3 +20,7 @@ This tool speaks the time when you move your hand over the proximity sensor. It 
 
 ## Timer
 A simple timer that ask for a title and the waiting time. [more](timer.md)
+
+## Zen Affirmation Reminder
+Reminds me 30 times a day of my zen affirmation. [more](zen_affirmation_reminder.md)
+
