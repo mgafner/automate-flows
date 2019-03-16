@@ -24,3 +24,7 @@ A simple timer that ask for a title and the waiting time. [more](timer.md)
 ## Zen Affirmation Reminder
 Reminds me 30 times a day of my zen affirmation. [more](zen_affirmation_reminder.md)
 
+# Zen Breathing Reminder
+Reminds me 5 times a day of my zen breathing training unit. [more](zen_breathing_reminder.md)
+
+
