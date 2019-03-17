@@ -24,7 +24,9 @@ A simple timer that ask for a title and the waiting time. [more](timer.md)
 ## Zen Affirmation Reminder
 Reminds me 30 times a day of my zen affirmation. [more](zen_affirmation_reminder.md)
 
-# Zen Breathing Reminder
+## Zen Breathing Reminder
 Reminds me 5 times a day of my zen breathing training unit. [more](zen_breathing_reminder.md)
 
+## Zen Meditation Timer
+Timer for my zen meditation. Sets phone to "do not disturb" mode, sets audio volume to 7% and gives start and end signal. After meditation the modes and audio volumes are restored. [more](zen_meditation_timer.md)
 
