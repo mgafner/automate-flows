@@ -1,6 +1,9 @@
 # Llamalab Automate Flows
 This are my automate flows i wrote for [Llamalab Automate](https://llamalab.com/automate/). 
 
+## Ambient Light Level
+Sets the Display Brightness depending on the ambient light. ... yes, the phones usually do this automatically. But my Samsung Galaxy Note 8 has a bug: when unlocking with the home button in the night it sets the brightness to very bright. I even have to change the brightness levels two times to set it back to darker mode. And wait 7 seconds. [more](ambient_light_level.md)
+
 ## Apps Modes Daemon
 Set state of Bluetooth, Screen Sleep, Screen Lock and Screen Rotation for each app which is configured with the [Apps Modes Selector](apps_modes_selector.md).
 [more](apps_modes_daemon.md)
