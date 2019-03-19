@@ -15,6 +15,9 @@ Ask for states of Bluetooth, Screen Sleep, Screen Lock and Screen Rotation for t
 ## Awake Screen
 Keep screen awake and do not lock the device. [more](awake_screen.md)
 
+## Bluetooth Automation
+Bluetooth on when USB-powered. If doesn't connect during 1min then BT off. [more](bluetooth_automation.md)
+
 ## Flashlight
 Turn on Flashlight. Tap again or tap notification to turn off. [more](flashlight.md)
 
