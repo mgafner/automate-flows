@@ -18,6 +18,9 @@ Keep screen awake and do not lock the device. [more](awake_screen.md)
 ## Bluetooth Automation
 Bluetooth on when USB-powered. If doesn't connect during 1min then BT off. [more](bluetooth_automation.md)
 
+## Car Mode
+This I was using when travelling every day with my car. It starts the App Locus Maps, sets the volume to 100% and sets the screen to stay awake. [more](car_mode.md)
+
 ## Flashlight
 Turn on Flashlight. Tap again or tap notification to turn off. [more](flashlight.md)
 
