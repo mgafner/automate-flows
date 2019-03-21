@@ -21,6 +21,9 @@ Bluetooth on when USB-powered. If doesn't connect during 1min then BT off. [more
 ## Car Mode
 This I was using when travelling every day with my car. It starts the App Locus Maps, sets the volume to 100% and sets the screen to stay awake. [more](car_mode.md)
 
+## Connect AirPods and start selected App
+Starts Bluetooth, connects my AirPods and give me a choice of Apps to start. [more](connect_airpods_and_start_app.md)
+
 ## Flashlight
 Turn on Flashlight. Tap again or tap notification to turn off. [more](flashlight.md)
 
