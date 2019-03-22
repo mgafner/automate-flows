@@ -24,6 +24,9 @@ This I was using when travelling every day with my car. It starts the App Locus 
 ## Connect AirPods and start selected App
 Starts Bluetooth, connects my AirPods and give me a choice of Apps to start. [more](connect_airpods_and_start_app.md)
 
+## Continuous Camera
+Takes a picture in every second. Control the process on the notification panel. [more](continuous_camera.md)
+
 ## Flashlight
 Turn on Flashlight. Tap again or tap notification to turn off. [more](flashlight.md)
 
