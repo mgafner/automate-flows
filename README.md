@@ -27,6 +27,9 @@ Starts Bluetooth, connects my AirPods and give me a choice of Apps to start. [mo
 ## Continuous Camera
 Takes a picture in every second. Control the process on the notification panel. [more](continuous_camera.md)
 
+## Do Not Disturb While Sleeping
+Set notifications off while sleeping. Needs the sleep tracker app. [more](do_not_disturb_while_sleeping.md)
+
 ## Flashlight
 Turn on Flashlight. Tap again or tap notification to turn off. [more](flashlight.md)
 
