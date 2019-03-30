@@ -1,7 +1,7 @@
 # Llamalab Automate Flows
 This are my automate flows i wrote for [Llamalab Automate](https://llamalab.com/automate/). 
 
-For some Scripts I am using the Power Toggles] App to start them from a notification panel. Unfortunately, this app ist not in the google store anymore. But you find the sources on github here: https://github.com/sunnygoyal/PowerToggles
+For some Scripts I am using the Power Toggles] App to start them from a notification panel. Unfortunately, this app ist not in the google store anymore. But you find the sources on github here: https://github.com/sunnygoyal/PowerToggles . See more about this [here](power_toggles.md)
 
 ## Ambient Light Level
 Sets the Display Brightness depending on the ambient light. ... yes, the phones usually do this automatically. But my Samsung Galaxy Note 8 has a bug: when unlocking with the home button in the night it sets the brightness to very bright. I even have to change the brightness levels two times to set it back to darker mode. And wait 7 seconds. [more](ambient_light_level.md)
