@@ -4,4 +4,4 @@ Timer for my zen meditation. Sets phone to "do not disturb" mode, sets audio vol
 [Download flow](https://github.com/mgafner/automate-flows/blob/master/zen_meditation_reminder.flo?raw=true)
 
 ## Flow Screenshot
-![Flow](zen_meditation_reminder.png)
+![Flow](zen_meditation_timer.png)
